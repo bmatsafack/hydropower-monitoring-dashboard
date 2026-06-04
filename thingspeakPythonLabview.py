@@ -7,10 +7,10 @@ import time
 import pandas as pd
 from datetime import datetime
 
-channel_id = 3375067
-read_key = "ZYIZ9MMDKAQV7Q39"
+channel_id = #######
+read_key = "###############"
 
-labview_host = "10.211.55.9"
+labview_host = "######"
 
 labview_ports = {
     1: 71,  # isa
