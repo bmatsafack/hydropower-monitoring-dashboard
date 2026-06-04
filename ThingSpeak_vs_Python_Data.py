@@ -14,8 +14,8 @@ import matplotlib.dates as mdates
 # =========================
 # CSV files
 # =========================
-thingspeak_file = "/Users/blondelleatsafack/Documents/Blondelle_Rwanda/RESEARCH_2026/THESIS/1_From_Research2023/thingspeak_data.csv"
-python_file = "/Users/blondelleatsafack/Documents/Blondelle_Rwanda/RESEARCH_2026/THESIS/1_From_Research2023/python_data.csv"
+thingspeak_file = "your/path/data.csv"
+python_file = "your/path/data.csv"
 
 # =========================
 # Plot style
